@@ -1,4 +1,4 @@
-Hey 👋, nice to see you on my profile !
+# Hey 👋, nice to see you on my profile !
 
 * I'll be using mainly Front-End web languages and from time to time, I'll be doing Back-End.
 * Currently, I'm learning React.js, Typescript and Laravel.
