@@ -4,6 +4,12 @@
 * 💪 Currently, I'm learning React.js, Typescript and Laravel.
 * ⚡ I also have an instagram, find me on : [Lucas Gest](https://www.instagram.com/lucasgest_)
 
+# My classes !
+
+* [PDF HTML/CSS](#) In progress...
+* [PDF JS](#) In progress...
+* [PDF PHP/MySQL]() In progress...
+
 <!--
 **LucasGest/LucasGest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
