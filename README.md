@@ -1,23 +1,20 @@
-# Hey 👋, nice to see you on my profile !
+## Lucas Gest
 
-* ✨ I'll be using mainly Front-End web languages and from time to time, I'll be doing Back-End.
-* 💪 Currently, I'm learning React.js, Typescript and Laravel.
-* ⚡ I also have an instagram, find me on : [Lucas Gest](https://www.instagram.com/lucasgest_)
+Web and mobile development student based in France. I like building tools that people actually use every day: Discord bots for my community, web apps for my esports team, and Minecraft mods.
 
-# My classes !
+### What I'm working on
 
-* [PDF HTML/CSS](#) In progress...
-* [PDF JS](#) In progress...
-* [PDF PHP/MySQL]() In progress...
+| Project | What it is | Stack |
+|---|---|---|
+| [Awakening Progression](https://www.curseforge.com/members/lucanemone/projects) | A Minecraft mod where the world wakes up mod by mod: your modpack's mods unlock through offerings, relics or the passing days. | Java, NeoForge 1.21.1 |
+| [CloudyBot](https://github.com/LucasGest/BotCloudyCat) | The Discord bot of the CloudyCat community: economy, leaderboards, Valorant tools, Twitch live alerts, training reminders. | Node.js, discord.js, Firebase, Render |
+| [Premier](https://github.com/LucasGest/premier_cloudy) | A private web app for our Valorant Premier team: strategies, tactical board, matches, training schedule, Discord login by role. | JavaScript, Vercel serverless, Firestore |
+| Pilote | My personal Discord assistant: tasks, reminders, project status and GitHub activity in one place. | Node.js, discord.js, Firebase |
 
-<!--
-**LucasGest/LucasGest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools I use
 
-Here are some ideas to get you started:
+JavaScript, Node.js, HTML, CSS, Java, discord.js, Firebase / Firestore, Vercel, Render, Git and GitHub Actions.
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me
+
+- Minecraft mods: [CurseForge, lucanemone](https://www.curseforge.com/members/lucanemone/projects)
